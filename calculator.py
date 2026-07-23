@@ -39,3 +39,6 @@ while True:
 # kraff gald rapping music is gold buddy
 # will you be my prompt for valatine buddy?
 #be real wth me king
+
+#talking like a real nigga
+print("i know niggas want to see me down, to see me fall down but i got this, dream chaser working  my ass off buddy")
