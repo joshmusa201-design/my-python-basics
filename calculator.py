@@ -36,3 +36,6 @@ while True:
     print ("GOOD BYE KING!!")
     break
 
+# kraff gald rapping music is gold buddy
+# will you be my prompt for valatine buddy?
+#be real wth me king

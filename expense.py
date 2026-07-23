@@ -53,3 +53,6 @@ while True:
       elif combination.lower() == "4": # exiting josh expense tracker app
            print("thank you for using josh expense tracker 🤗 !!")
            break
+
+        #my love for you is like a moving train, it can never stops
+        # burst my head 😂
